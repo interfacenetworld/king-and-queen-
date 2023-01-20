@@ -1,2 +1,2 @@
-# king-and-queen-
-Mobile app
+terms
+conditions
